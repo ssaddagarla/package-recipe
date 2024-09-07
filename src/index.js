@@ -1,4 +1,5 @@
 module.exports = function greet () {
-    return 'Hello world!'
+   /*## return 'Hello world!' */
+   console.log('Hello Mars!');
     }
-    console.log('Hello Mars!');   
+       
